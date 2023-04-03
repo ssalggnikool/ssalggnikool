@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/emojis/1084310943296663613.gif?size=96&quality=lossless" width="100" alt="ball"> <img src="https://cdn.discordapp.com/emojis/1084310943296663613.gif?size=96&quality=lossless" width="100" alt="ball"> <img src="https://cdn.discordapp.com/emojis/1084310943296663613.gif?size=96&quality=lossless" width="100" alt="ball"> <img src="https://cdn.discordapp.com/emojis/1084310943296663613.gif?size=96&quality=lossless" width="100" alt="ball"> <img src="https://cdn.discordapp.com/emojis/1084310943296663613.gif?size=96&quality=lossless" width="100" alt="ball"> 
+<img src="https://cdn.discordapp.com/emojis/1084310943296663613.gif?size=96&quality=lossless" width="100" alt="ball">
 
 -----
 ```swift
