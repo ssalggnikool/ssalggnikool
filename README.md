@@ -5,6 +5,8 @@
 ```
 e-mail    flower@palera.in
 aliases   eugolonom, flower, samara
+name      samara
+age       ..
 pronouns  she/her | they/them
 locale    english
 knowledge swift, html, sh
