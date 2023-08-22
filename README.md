@@ -1,6 +1,9 @@
 ##
 
-<img align="left" src="https://lanyard.cnrad.dev/api/836452332387565589">
+<a href="https://discord.com/users/836452332387565589">
+    <img align="left" src="https://lanyard.cnrad.dev/api/836452332387565589">
+</a>
+
 
 ```
 e-mail    flower@palera.in
