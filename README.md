@@ -7,11 +7,13 @@
 
 ```
 e-mail    flower@palera.in
-aliases   eugolonom, flower, samara
+aliases   eugolonom, ssalggnikool, flower
 name      samara
-pronouns  she/her | they/them
-locale    english
+pronouns  she/her
+language  english
 knowledge swift, html, sh
+
+wishes    to be better
 
 discord   ssalggnikool | eugolonom
 twitter   eugolonom
