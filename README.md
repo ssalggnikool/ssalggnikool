@@ -6,16 +6,10 @@
 
 
 ```
-e-mail    flower@palera.in
-aliases   eugolonom, ssalggnikool, flower
-name      samara
-pronouns  she/her
-language  english
-knowledge swift, html, sh
-
+aliases    ssalggnikool, flower
+name       samara
+pronouns   she/they
+speaks in  english
+knowledge  swift, and some other things 
 wishes    to be better
-
-discord   ssalggnikool | eugolonom
-twitter   eugolonom
-github    eugolonom
 ```
