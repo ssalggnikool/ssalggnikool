@@ -71,3 +71,7 @@
 <a href="https://github.com/llsc12" target="_blank" style="display:inline-block; margin-right: 10px;">
     <img height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/llsc12.png&fit=cover&mask=circle&maxage=7d" alt="Avatar">
 </a>
+
+<a href="https://github.com/voidlovescats" target="_blank" style="display:inline-block; margin-right: 10px;">
+    <img height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/voidlovescats.png&fit=cover&mask=circle&maxage=7d" alt="Avatar">
+</a>
