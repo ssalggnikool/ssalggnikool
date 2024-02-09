@@ -34,7 +34,15 @@ devices  : |
 ```
 </h> 
 
+
+<div class="clear"></div>
+
+
 ## My Friends
+
+
+
+
 
 <a href="https://github.com/asdfugil" target="_blank" style="display:inline-block; margin-right: 10px;">
     <img height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/asdfugil.png&fit=cover&mask=circle&maxage=7d" alt="Avatar">
