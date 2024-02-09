@@ -1,6 +1,38 @@
-## Me
 
-![hehe](https://raw.githubusercontent.com/ssalggnikool/risitara/2781d5137245ecd6ce5ad69f759ba1550f465ca5/static/images/bwah_scary.jpg)
+<img align="left" height="560" src="https://github.com/ssalggnikool/ssalggnikool/assets/97859147/f7ee6df4-46b9-4119-a5e2-ec9e9d3d3440" alt="logo" style="float: left;"/>
+<h align="left">
+
+```yml
+samara@samaras-Mini: ./samara_loader -p
+---------------------------------------
+- [LOG] selected: preview mode
+
+# 🌱 ================
+desc     : |
+    - I'm just a developer trying to do what I love doing, 
+      even if my downs try to prevent me.
+pronouns : |
+    - Any pronouns
+desc     : |
+    - Developer and wannabe designer
+skills   : |
+    - Swift
+    - UIKit
+    - SwiftUI
+hobbies  : |
+    - Learning on my own
+    - Some gamings
+    - Graphic designing using Pixelmator Pro 
+devices  : |
+    - iPhone X  (13.3)
+    - iPhone 7  (14.7.1 - X)
+    - iPhone 5s (11.3)
+    - iPhone 11 (latest)
+# 🌱 ================
+
+- [LOG]: Waiting for samara mode device (5 sec)
+```
+</h> 
 
 ## My Friends
 
