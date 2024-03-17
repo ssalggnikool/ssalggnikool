@@ -1,7 +1,3 @@
-
-<img align="left" height="540" src="https://github.com/ssalggnikool/ssalggnikool/assets/97859147/facfe6ba-a36e-400d-ab49-d542854dc665" alt="logo" style="float: left;"/>
-<h align="left">
-
 ```yml
 samara@samaras-Mini: ./samara_loader -p
 ---------------------------------------
