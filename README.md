@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="images/samara.png" style="height: 100px;" />
+    <a href="."><img src="images/samara.png" style="height: 100px;" /></a>
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://discord.com/users/836452332387565589"><img src="images/discord.png" style="height: 100px;" /></a>
