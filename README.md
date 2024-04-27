@@ -10,4 +10,14 @@
 
 # 	
 
-### Hey! I'm samara <3
+### About Me
+I'm extremely interested in `front-end` development, though I mainly develop for apple-related products but I'm looking into expanding my own interests to other operating systems outside as well.
+
+#### My Skills
+- `Swift` / `Objective-C`
+- Experienced in using `Cocoa (Touch) / UIKit / Appkit` and `SwiftUI`
+- Front-end development, skills in developing somewhat pretty-looking user-interfaces (depending on the application!)
+
+
+#### Projects
+You can find them below:
