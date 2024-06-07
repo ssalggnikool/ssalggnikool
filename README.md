@@ -1,17 +1,19 @@
-### `インターネットを使うのをやめろ`
+hi hello! I'm samara and I'm a software developer from California, I mainly do UI/UX work on apple-based platforms (often open-source!). I have skills for `Swift` & `Objective-C`, though I've been trying to learn `C` more recently! 
 
-## Skills
+i have a bit of a taste in trying to make things look good, often rewriting stuff many times just so it looks/works to my own standards (sometimes its a pain, but often its well worth the effort in the end). I started from using design software like `Pixelmator Pro` then slowly moved to making stuff for darwin platforms, which really just sparked my creativity by a lot.
 
-- Swift
-- Objective-C
-- C
-- HTML/CSS/JS
+i also do some web development (as seen from my website), though its all frontend mainly using plain html/css and some javascript. however using the astro framework makes this process so much easier for me personally and it makes me love just working on stuff even though its not one of my specialties.
 
-I mainly use **Cocoa** frameworks for my iOS projects, though sometimes I do also incorporate **SwiftUI** in some very specific cases. 
+i often play games but coding usually takes most of that time up, so I don't have much time to play most of the time
 
-For web it's just the standard **HTML/CSS/JS**, with the Astro framework.
+you can find my contacts here: https://khcrysalis.dev/
 
-I often do requests for people I'm close with regarding UI/UX stuff, sometimes some of that don't hit the light of day but thats fine.
+## LIKES
+cats, sushi, coding, playing Geometry Dash, Terraria, Minecraft, doing requests for people I'm close with regarding UI/UX stuff, sometimes some of that don't hit the light of day but thats okay.
 
+## DISLIKES
+not getting enough sleep, 
 
-# 
+## MORE?
+
+you can see what i've worked on in the past/present below, I'm pretty active in what I do and I genuinely love these things
