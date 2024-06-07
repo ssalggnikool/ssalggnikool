@@ -17,3 +17,7 @@ not getting enough sleep,
 ## MORE?
 
 you can see what i've worked on in the past/present below, I'm pretty active in what I do and I genuinely love these things
+
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; pointer-events: none; opacity: 1; background-size: cover; background-image: url('https://github.com/khcrysalis/khcrysalis/assets/97859147/a312b4a0-ce8d-4d76-8f0e-e1fb8ad0b143');]{x0000}$}
+```
