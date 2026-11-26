@@ -1,3 +1,7 @@
+> [!WARNING]
+>
+> I do not check notifications on Github, reach me elsewhere if you really need me
+
 # My projects no longer live on GitHub
 
 Over the last couple of years, GitHub has been turned into a distribution channel for Microsoft's LLMs,
